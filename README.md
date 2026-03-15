@@ -34,15 +34,11 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 # Run the script
 python student_performance.py
-```
-
-Or open `student_performance.ipynb` in **Google Colab / Jupyter Notebook**.
 
 ##  Project Structure
 ```
 student_performance_predictor/
-├── student_performance.py     
-├── student_performance.ipynb   
+├── student_performance.py      
 ├── requirements.txt
 └── README.md
 ```
