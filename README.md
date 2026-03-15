@@ -35,13 +35,5 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 # Run the script
 python student_performance.py
 
-##  Project Structure
-```
-student_performance_predictor/
-├── student_performance.py      
-├── requirements.txt
-└── README.md
-```
-
 ## Tech Stack
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
