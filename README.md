@@ -34,6 +34,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 # Run the script
 python student_performance.py
+```
 
 ## Tech Stack
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
